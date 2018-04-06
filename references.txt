@@ -1,0 +1,40 @@
+[1] Golden, B., Magnanti, L. and Nguyan, H. (1972). Implementing Vehicle Routing Algorithms. Networks, 7(2), 113-148
+
+[2] Wilson, N., Sussman, J., Wang, H. and Higonnet, B. (1971). Scheduling algorithms for dial-a-ride Systems. Massachusetts Institute of Technology, Cambridge.Technical report USL TR-70-13.
+
+[3] Liebman, J. and Marks, D. (1970). Mathematical analysis of solid waste collections. Public Health Service. Publ No 2065. Ms Depot of Health. Education and Welfare
+
+[4] Levin, A. (1971). Scheduling And Fleet Routing Models For Transportation Systems.Transportation Sciencie, 5(3), 232-256.
+
+[5] Solomon, M. (1987). Algorithms For Vehicle Scheduling Routing Problem With Time Windows. Operations Research, 35(2), 354-265
+
+[6] Sariklis, D. and Powell, S. (2000). A Heuristic Method ,The  Open Vehicle Routing Problem. JORS, 51, 564-573.
+
+[7]  K.C.Tan, L.H.Lee, Q.L.Zhu, K.OU,2000. Heuristic methods for vehicle routing problem with time windows, Artificial Intelligence in Engineering, 1-15
+
+[8] Mitsuo Gen and Runwei Cheng,2000. Genetic Algorithms and Engineering Optimization, Wiley Series, 340-400
+
+[9] Laporte, G. and Nobert, Y. (1987). Exact algorithms for the Vehicle Routing Problem. Discrete Mathematics, 31, 147-184.
+
+[10] Fischetti, M., Toth P. and Vigo, D. (1994). A branch and bound algorithm for the capacitated vehicle routing problem on direct graphs. Operations Research, 42, 846-859.Fukasawa, R., Lysgaard,  J., de Aragão, M. P., Reis, M., Uchoa, E. and Werneck, R. F. (2004). Robust branch-and-cut-and-price for the capacitated vehicle routing problem.   
+
+[11] Baldacci, R., Toth, P. and Vigo, D. (2010). Exact Algorithms For Routing Problems Under Vehicle Capacity  Constraints. Annals of Operations Research, 175(1), 213-245
+
+[12] Beasley, J. (1983). Route first-cluster second methods for VRP. Omega, 1, 403-408
+
+[13] Clarke, G. and Wright, J.(1964). Scheduling of Vehicles from a Central Depot a Number of Delivery Points. Operations Research, 12, 568-581. 
+
+[14] Mole, R. and S. Jameson, S. (1976). A sequential route-building algorithm employingageneralized saving criterion. Operation Research Quarterly, 11, 503-511
+
+[15] Randy L.Haupt ,2004. Practical Genetic Algorithms -2nd Edition , Wiley Series, 200-250
+
+[16] Beatrice Ombuki,B.J.Ross and Franklin Hanshar,2006. Multi Objective Vehicle Routing Problem with Time Windows, Applied Intelligence, 1-14
+
+[17] S.M.SIVANANDAM, S.N.DEEPA,2008. Introduction to Genetic Algorithms, Springer, 170-200
+
+[18] Mitchell Melanie,1999. An introduction to Genetic Algorithm, MIT Press, 160-165
+
+http://www.mu-sigma.com/muphoria/
+
+http://en.wikipedia.org/wiki/Genetic_algorithm
+
