@@ -1,4 +1,4 @@
-﻿#-- Final Year Project --
+-- Final Year Project --
 #
 Implements the Challenge problem organized by MuSigma.
 
